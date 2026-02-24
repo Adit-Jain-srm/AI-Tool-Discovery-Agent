@@ -154,8 +154,8 @@ AI_Agent-Weekly-Discovery/
 ### Installation
 
 ```bash
-git clone https://github.com/aditj-optimus/AI_Agent-Weekly-Discovery.git
-cd AI_Agent-Weekly-Discovery
+git clone https://github.com/your-username/AI-Tool-Discovery-Agent.git
+cd AI-Tool-Discovery-Agent
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -221,6 +221,3 @@ All tunable parameters are in [`config/constants.py`](config/constants.py):
 ## Author
 
 **Adit Jain**
-Developed during internship at Optimus Information Inc. (June–July 2025)
-
-[GitHub Repository](https://github.com/aditj-optimus/AI_Agent-Weekly-Discovery)
